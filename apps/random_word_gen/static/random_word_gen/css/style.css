@@ -1,0 +1,23 @@
+.container {
+    border: 1px solid black;
+	display: table;
+    margin: 0 auto;
+    width: 250px;
+}
+
+p{
+    text-align: center;
+}
+
+h4 {
+    width: 300px;
+	border: 1px solid black;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1rem;
+}
+
+a {
+	text-align: center;
+	padding: 1rem;
+}
